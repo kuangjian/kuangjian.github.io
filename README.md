@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kuangjian/kuangjian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 联系方式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+- 手机：13265679945
+- Email：13265679945@163.com
+- QQ/微信号：243693117
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# 个人信息
 
-# Header 1
-## Header 2
-### Header 3
+ - 况建/男/1993 
+ - 专科/西北工业大学电力系统自动化
+ - 工作年限：4年
+ - 技术博客：https://blog.csdn.net/qq_41952224?spm=1000.2115.3001.5343
+ - 期望职位：PHP程序员
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# 工作经历
 
-**Bold** and _Italic_ and `Code` text
+## 深圳市微缘信息科技有限公司 （ 2018年3月 ~ 至今 ）
 
-[Link](url) and ![Image](src)
-```
+### 红娘系统
+我在此项目主要负责了表的设计，主要功能的实现。包括用户的增删改查、订单列表、用户匹配、数据统计、运营工具等功能。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### CRM系统 
+我在此项目主要负责了客户管理、平台设置、数据分析等功能。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuangjian/kuangjian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  
+## 深圳锋镝传媒有限公司 （ 2017年3月 ~ 2018年3月 ）
 
-### Support or Contact
+### 五金商城 
+我在此项目主要负责了商品增删改查、用户登录、购买商品等功能。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+# 技能清单
+
+以下均为我熟练使用的技能
+
+- Web开发：PHP/Linux
+- Web框架：ThinkPHP/CI/Lavarel/Discuz
+- 前端框架：Bootstrap/JQuery/HTML5/Layui
+- 数据库相关：MySQL/PDO
+- 版本管理、文档和自动化部署工具：Svn/Git/Composer
+- 云和开放平台：微信应用开发/企业微信开发
+
+
+# 其他事项
+目前人在中国，日语基础为零，正在多邻国APP中记词汇，已坚持一段时间。
+想在日本找工作，并且在日本学习日语。
+
